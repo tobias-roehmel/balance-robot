@@ -1,3 +1,6 @@
 [submodule "balance-robot-code"]
 	path = balance-robot-code
 	url = https://github.com/tobias-roehmel/balance-robot-code.git
+[submodule "balance-robot-cad"]
+	path = balance-robot-cad
+	url = https://github.com/tobias-roehmel/balance-robot-cad.git
