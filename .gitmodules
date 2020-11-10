@@ -4,3 +4,6 @@
 [submodule "balance-robot-cad"]
 	path = balance-robot-cad
 	url = https://github.com/tobias-roehmel/balance-robot-cad.git
+[submodule "balance-robot-sim"]
+	path = balance-robot-sim
+	url = https://github.com/tobias-roehmel/balance-robot-sim.git
